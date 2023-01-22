@@ -1,6 +1,8 @@
 # CrudNetCore
 
 VisualStudio 2019
-Microsoft SQL Server
+Microsoft SQL Server Managment Studio 18
 
-Entities Framework
+NuGet Packages
+ * Microsoft.EntityFrameworkCore.SqlServer
+ * Microsoft.EntityFrameworkCore.Tools
