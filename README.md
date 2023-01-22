@@ -1,6 +1,6 @@
 # CrudNetCore
 
-VisualStudio 2019
+VisualStudio 2022, 
 Microsoft SQL Server Managment Studio 18
 
 NuGet Packages
